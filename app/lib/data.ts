@@ -1,3 +1,4 @@
+// данная функция предотвращает угрузу SQLi
 import { sql } from '@vercel/postgres';
 import {
   CustomerField,
